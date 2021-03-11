@@ -21,6 +21,7 @@ pip install cryptoaddress
 ```
 2. Open main.py and replace the token variable, and put your Infura api key in the file.
 
+3. You may have to replace the emojis inside the embeds, create your custom emoji in your own discord server then replace the emoji id.
 
 ## Disclaimer
 
